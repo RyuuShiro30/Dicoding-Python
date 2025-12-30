@@ -1,0 +1,4 @@
+#install black, yapf, autopep8
+black
+yapf
+autopep8
